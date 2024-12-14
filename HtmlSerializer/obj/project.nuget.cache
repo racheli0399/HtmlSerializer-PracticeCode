@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "icCpxpnwXD73/hP5REHUrJT275CWvkKJOM9WnK/piV+bFoze8s409BGpJVbno/Yrhw4mYPm6UX0sxyYasxUoyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\תכנות\\שנה ב\\פראקטיקוד\\פרויקט 2\\HtmlSerializer\\HtmlSerializer\\HtmlSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
